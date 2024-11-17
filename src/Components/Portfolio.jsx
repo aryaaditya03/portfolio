@@ -31,28 +31,34 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Membuat Project Website Trivia Bunga",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Tugas Kampus Semester 2 Mata Kuliah Web Programming 1, membuat website trivia bunga menggunakan HTML, CSS, dan JavaScript.",
+    url: "https://github.com/aryaaditya03/TriviaBunga.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Membuat Project Website NewStudentInfo",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Membuat website NewStudentInfo menggunakan HTML, CSS, dan JavaScript. Website ini berisi informasi mahasiswa baru, seperti biodata, nilai, dan lain-lain. Menggunakan framework Bootstrap & CodeIgniter.",
+    url: "https://github.com/aryaaditya03/NewStudentInfo.git",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume Project Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A project website to showcase my resume. Built using HTML, CSS, PHP, JavaScript, and hosted on Hostinger.",
+    url: "https://arya-aditya.codeafive.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Membuat Website PPDB SMAN180",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Membuat website SMAN180 menggunakan HTML, CSS, dan JavaScript. Website ini berisi informasi sekolah, seperti visi, misi, dan lain-lain. Website ini dibuat untuk PPDB SMAN180.",
+    url: "https://sma180.site",
+  },
+  {
+    title: "Membuat Aplikasi Multi-Tool",
+    description:
+      "Membuat aplikasi Multi-Tool dengan site appsgeyser.com",
+    url: "https://drive.google.com/drive/folders/1Ic0tltv2iOoDbvYV5Ewqi2M7yk8SP9R9",
   },
 ];
 
